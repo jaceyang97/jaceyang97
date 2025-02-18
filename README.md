@@ -1,2 +1,3 @@
-<img src="https://github.com/user-attachments/assets/d3491f95-b577-4870-8286-94e415e85ee2" width="50%" alt="Image" />
-Image credit: [SAWARATSUKI](https://github.com/SAWARATSUKI)
+<img src="https://github.com/user-attachments/assets/6eb39f7b-4714-401e-9bcd-819518424b70" width="50%" alt="Image" />
+<br>
+<small>Image credit: <a href="https://github.com/SAWARATSUKI">SAWARATSUKI</a></small>
